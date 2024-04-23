@@ -1,0 +1,12 @@
+  *
+    {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: medium;
+        background-color: rgb(132, 247, 180);
+        
+    }
+    table,th,td {
+        border:2px solid rgb(0, 0, 0);
+        padding: 3px;
+        background-color: rgb(61, 241, 130);
+    }
